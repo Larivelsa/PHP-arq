@@ -25,6 +25,10 @@
                         Argumentos Variáveis</a></li>
                         <li><a href="exercicio.php?dir=funcao&file=arg_padrao">
                         Argumento Padrão</a></li>
+                        <li><a href="exercicio.php?dir=funcao&file=usando_tipos">
+                        Usando Tipos</a></li>
+                        <li><a href="exercicio.php?dir=funcao&file=funcao_anonima">
+                        Função Anônima</a></li>
                     </ul>
                 </div>
             <div class="modulo verde-escuro">

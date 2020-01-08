@@ -1,7 +1,7 @@
 <div class="titulo">Função & Escopo</div>
 <?php
     function imprimirMensagem(){
-        echo "Olá";
+        echo "Olá!";
         echo " Até a próxima<br>";
     }
 

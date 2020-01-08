@@ -19,6 +19,12 @@
                     <ul>
                         <li><a href="exercicio.php?dir=funcao&file=escopo">
                         Função & Escopo</a></li>
+                        <li><a href="exercicio.php?dir=funcao&file=desafio_palindromo">
+                        Desafio Palíndromo</a></li>
+                        <li><a href="exercicio.php?dir=funcao&file=args_variaveis">
+                        Argumentos Variáveis</a></li>
+                        <li><a href="exercicio.php?dir=funcao&file=arg_padrao">
+                        Argumento Padrão</a></li>
                     </ul>
                 </div>
             <div class="modulo verde-escuro">

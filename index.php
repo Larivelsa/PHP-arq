@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <link href="https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700" rel="stylesheet">
     <link rel="stylesheet" href="recursos/css/estilo.css">
-    <title>Curso PHP</title>
+    <title>Curso PHP </title>
 </head>
 <body>
     <header class="cabecalho">
@@ -14,11 +14,11 @@
     <main class="principal">
         <div class="conteudo">
             <nav class="modulos">
-            <div class="modulo vermelh-escuro">
+            <div class="modulo vermelho-escuro">
                     <h3>7. Funções</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=funcao&file=escopo">
-                        For</a></li>
+                        Função & Escopo</a></li>
                     </ul>
                 </div>
             <div class="modulo verde-escuro">

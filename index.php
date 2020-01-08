@@ -14,6 +14,13 @@
     <main class="principal">
         <div class="conteudo">
             <nav class="modulos">
+            <div class="modulo vermelh-escuro">
+                    <h3>7. Funções</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=funcao&file=escopo">
+                        For</a></li>
+                    </ul>
+                </div>
             <div class="modulo verde-escuro">
                     <h3>6. Repetições</h3>
                     <ul>
@@ -25,6 +32,10 @@
                         Foreach</a></li>
                         <li><a href="exercicio.php?dir=repeticoes&file=break_continue">
                         Break/Continue</a></li>
+                        <li><a href="exercicio.php?dir=repeticoes&file=desafio_impressao">
+                        Desafio Impressão</a></li>
+                        <li><a href="exercicio.php?dir=repeticoes&file=while">
+                        While/Do While</a></li>
                     </ul>
                 </div>
             <div class="modulo laranja">

@@ -29,6 +29,12 @@
                         Usando Tipos</a></li>
                         <li><a href="exercicio.php?dir=funcao&file=funcao_anonima">
                         Função Anônima</a></li>
+                        <li><a href="exercicio.php?dir=funcao&file=closure_callable">
+                        Closure & Callable</a></li>
+                        <li><a href="exercicio.php?dir=funcao&file=recursividade">
+                        Recursividade</a></li>
+                        <li><a href="exercicio.php?dir=funcao&file=desafio_recursividade">
+                        Desafio Recursão</a></li>
                     </ul>
                 </div>
             <div class="modulo verde-escuro">

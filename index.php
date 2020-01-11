@@ -15,6 +15,13 @@
         <div class="conteudo">
             <nav class="modulos">
             <div class="modulo vermelho-escuro">
+                    <h3>8. Orientação a Objetos</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=orientacao_objetos&file=primeira_classe">
+                        Classe vs Objeto</a></li>
+                    </ul>
+                </div>
+            <div class="modulo vermelho-escuro">
                     <h3>7. Funções</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=funcao&file=escopo">
@@ -35,6 +42,10 @@
                         Recursividade</a></li>
                         <li><a href="exercicio.php?dir=funcao&file=desafio_recursividade">
                         Desafio Recursão</a></li>
+                        <li><a href="exercicio.php?dir=funcao&file=retornando_funcao">
+                        Retornando Função</a></li>
+                        <li><a href="exercicio.php?dir=funcao&file=map_filter">
+                        Map & Filter</a></li>
                     </ul>
                 </div>
             <div class="modulo verde-escuro">

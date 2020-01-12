@@ -14,11 +14,15 @@
     <main class="principal">
         <div class="conteudo">
             <nav class="modulos">
-            <div class="modulo vermelho-escuro">
+            <div class="modulo azul-escuro">
                     <h3>8. Orientação a Objetos</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=orientacao_objetos&file=primeira_classe">
-                        Classe vs Objeto</a></li>
+                        Primeira Classe</a></li>
+                        <li><a href="exercicio.php?dir=orientacao_objetos&file=desafio_classe">
+                        Desafio Classe</a></li>
+                        <li><a href="exercicio.php?dir=orientacao_objetos&file=construtor_destrutor">
+                        Construtor & Destrutor</a></li>
                     </ul>
                 </div>
             <div class="modulo vermelho-escuro">

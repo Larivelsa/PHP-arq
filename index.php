@@ -25,6 +25,8 @@
                         Construtor & Destrutor</a></li>
                         <li><a href="exercicio.php?dir=orientacao_objetos&file=heranca">
                         Herança</a></li>
+                        <li><a href="exercicio.php?dir=orientacao_objetos&file=visibilidade">
+                        Visibilidade</a></li>
                     </ul>
                 </div>
             <div class="modulo vermelho-escuro">

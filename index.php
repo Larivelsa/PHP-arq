@@ -23,6 +23,8 @@
                         Desafio Classe</a></li>
                         <li><a href="exercicio.php?dir=orientacao_objetos&file=construtor_destrutor">
                         Construtor & Destrutor</a></li>
+                        <li><a href="exercicio.php?dir=orientacao_objetos&file=heranca">
+                        Herança</a></li>
                     </ul>
                 </div>
             <div class="modulo vermelho-escuro">

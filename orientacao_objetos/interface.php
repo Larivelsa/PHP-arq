@@ -2,7 +2,11 @@
 <!--   
     - classes só podem estender um classe
     - uma classe pode implementar várias interfaces
-    - por padrão, são públicas-->
+    - por padrão, são públicas
+    - interface define a assinatura do método,
+      enquando a classe concreta precisa ter todos
+      os métodos implementados
+    -->
 <?php
     interface Animal{
         function respirar();

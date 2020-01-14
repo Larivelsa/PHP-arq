@@ -27,6 +27,10 @@
                         Herança</a></li>
                         <li><a href="exercicio.php?dir=orientacao_objetos&file=visibilidade">
                         Visibilidade</a></li>
+                        <li><a href="exercicio.php?dir=orientacao_objetos&file=static">
+                        Membros Estáticos</a></li>
+                        <li><a href="exercicio.php?dir=orientacao_objetos&file=interface">
+                        Interface</a></li>
                     </ul>
                 </div>
             <div class="modulo vermelho-escuro">

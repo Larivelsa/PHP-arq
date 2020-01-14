@@ -1,3 +1,4 @@
+
 <div class="titulo">Visibilidade</div>
 <?php
     class A{
@@ -17,9 +18,20 @@
         }
     }
 
-    $a = new A;
-    echo $a->protegido;
+    $a = new A();
+   
+
     $a->mostrarA().'<br>';
     $a->naoMostrar();
 
-    class B extends A
+    class B extends A {
+
+        public function mostrarB(){
+            echo "Classe B) Público = {$this->publico}<br>";
+            echo "Classe B) Protegido = {$this->protegido}<br>";
+        }
+    }
+
+    echo '<br>';
+    $b=new B();
+    $b->mostrarB();

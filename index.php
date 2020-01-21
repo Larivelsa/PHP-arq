@@ -33,6 +33,16 @@
                         Interface</a></li>
                         <li><a href="exercicio.php?dir=orientacao_objetos&file=abstract">
                         Classe Abstrata</a></li>
+                        <li><a href="exercicio.php?dir=orientacao_objetos&file=desafio_erros">
+                        Desafio Erros</a></li>
+                        <li><a href="exercicio.php?dir=orientacao_objetos&file=traits_1">
+                        Traits #1</a></li>
+                        <li><a href="exercicio.php?dir=orientacao_objetos&file=traits_2">
+                        Traits #2</a></li>
+                        <li><a href="exercicio.php?dir=orientacao_objetos&file=metodos_magicos">
+                        Métodos Mágicos</a></li>
+                        <li><a href="exercicio.php?dir=orientacao_objetos&file=polimorfismo">
+                        Polimorfismo</a></li>
                     </ul>
                 </div>
             <div class="modulo vermelho-escuro">

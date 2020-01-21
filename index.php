@@ -14,6 +14,17 @@
     <main class="principal">
         <div class="conteudo">
             <nav class="modulos">
+            <div class="modulo roxo-escuro">
+                    <h3>9. Includes</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=includes&file=include">
+                        Include</a></li>
+                        <li><a href="exercicio.php?dir=includes&file=include_funcao">
+                        Include Função</a></li>
+                        <li><a href="exercicio.php?dir=includes&file=include_funcao">
+                        Include vs Require</a></li>
+                    </ul>
+            </div>
             <div class="modulo azul-escuro">
                     <h3>8. Orientação a Objetos</h3>
                     <ul>
@@ -35,6 +46,7 @@
                         Classe Abstrata</a></li>
                         <li><a href="exercicio.php?dir=orientacao_objetos&file=desafio_erros">
                         Desafio Erros</a></li>
+<<<<<<< HEAD
                         <li><a href="exercicio.php?dir=orientacao_objetos&file=traits_1">
                         Traits #1</a></li>
                         <li><a href="exercicio.php?dir=orientacao_objetos&file=traits_2">
@@ -43,6 +55,8 @@
                         Métodos Mágicos</a></li>
                         <li><a href="exercicio.php?dir=orientacao_objetos&file=polimorfismo">
                         Polimorfismo</a></li>
+=======
+>>>>>>> c0441df7a77957d6a140068f3818a36bd5bf8747
                     </ul>
                 </div>
             <div class="modulo vermelho-escuro">

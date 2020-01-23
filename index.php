@@ -14,6 +14,17 @@
     <main class="principal">
         <div class="conteudo">
             <nav class="modulos">
+            <div class="modulo laranja">
+                    <h3>11. Tratamento de Erros</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=tratamento_erro&file=try_catch">
+                        Try & Catch</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=tratamento_erro&file=erros_personalizados">
+                        Erros personalizados</a></li>
+                    </ul>
+            </div>
             <div class="modulo roxo-escuro">
                     <h3>9. Includes</h3>
                     <ul>

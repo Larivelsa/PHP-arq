@@ -14,6 +14,13 @@
     <main class="principal">
         <div class="conteudo">
             <nav class="modulos">
+            <div class="modulo verde">
+                    <h3>12. Sessão & Cookie</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=sessao_cookie&file=basico_sessao">
+                        Básico Sessão</a></li>
+                    </ul>
+            </div>
             <div class="modulo laranja">
                     <h3>11. Tratamento de Erros</h3>
                     <ul>
@@ -23,6 +30,8 @@
                         Erros personalizados</a></li>
                         <li><a href="exercicio.php?dir=tratamento_erro&file=desafio">
                         Desafio intdiv</a></li>
+                        <li><a href="exercicio.php?dir=tratamento_erro&file=gerenciador_erro">
+                        Error Handler</a></li>
                     </ul>
             </div>
             <div class="modulo roxo-escuro">

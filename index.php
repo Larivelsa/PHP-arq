@@ -1,3 +1,13 @@
+<?php
+    session_start();
+    if(!$_SESSION['usuario']){
+        header('Location: login.php');
+    }
+
+?>
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,6 +21,12 @@
         <h1>Curso PHP</h1>
         <h2>Índice dos Exercícios</h2>
     </header>
+
+    <nav class="navegacao">
+        <span class="usuario">Usuário: <?= $_SESSION['usuario'] ;?></span>
+        <a href="logout.php">Sair</a>
+    </nav>
+
     <main class="principal">
         <div class="conteudo">
             <nav class="modulos">
@@ -19,6 +35,9 @@
                     <ul>
                         <li><a href="exercicio.php?dir=sessao_cookie&file=basico_sessao">
                         Básico Sessão</a></li>
+                        <li><a href="exercicio.php?dir=sessao_cookie&file=gerenciando_sessao">
+                        Gerenciando Sessão
+                        </a></li>
                     </ul>
             </div>
             <div class="modulo laranja">

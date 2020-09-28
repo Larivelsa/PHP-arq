@@ -1,8 +1,8 @@
-<?php
+<?php/*
     session_start();
     if(!$_SESSION['usuario']){
         header('Location: login.php');
-    }
+    }*/
 
 ?>
 
@@ -14,12 +14,12 @@
     <meta charset="UTF-8">
     <link href="https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700" rel="stylesheet">
     <link rel="stylesheet" href="recursos/css/estilo.css">
-    <title>Curso PHP </title>
+    <title>PHP </title>
 </head>
 <body>
     <header class="cabecalho">
-        <h1>Curso PHP</h1>
-        <h2>Índice dos Exercícios</h2>
+        <h1>PHP</h1>
+        <h2>Índice</h2>
     </header>
 
     <nav class="navegacao">
@@ -64,6 +64,15 @@
                         Error Handler</a></li>
                     </ul>
             </div>
+
+            <div class="modulo laranja-escuro">
+                    <h3>10. Namespace</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=namespace&file=basico">
+                        Básico</a></li>
+                    </ul>
+            </div>
+
             <div class="modulo roxo-escuro">
                     <h3>9. Includes</h3>
                     <ul>
@@ -96,7 +105,6 @@
                         Classe Abstrata</a></li>
                         <li><a href="exercicio.php?dir=orientacao_objetos&file=desafio_erros">
                         Desafio Erros</a></li>
-<<<<<<< HEAD
                         <li><a href="exercicio.php?dir=orientacao_objetos&file=traits_1">
                         Traits #1</a></li>
                         <li><a href="exercicio.php?dir=orientacao_objetos&file=traits_2">
@@ -105,8 +113,6 @@
                         Métodos Mágicos</a></li>
                         <li><a href="exercicio.php?dir=orientacao_objetos&file=polimorfismo">
                         Polimorfismo</a></li>
-=======
->>>>>>> c0441df7a77957d6a140068f3818a36bd5bf8747
                     </ul>
                 </div>
             <div class="modulo vermelho-escuro">

@@ -46,11 +46,11 @@
     <link href="https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700" rel="stylesheet">
     <link rel="stylesheet" href="recursos/css/estilo.css">
     <link rel="stylesheet" href="recursos/css/login.css">
-    <title>Curso PHP </title>
+    <title>PHP </title>
 </head>
 <body class="login">
     <header class="cabecalho">
-        <h1>Curso PHP</h1>
+        <h1>PHP</h1>
         <h2>Seja bem vinda</h2>
     </header>
 

@@ -1,4 +1,4 @@
-<div class="titu">Upload</div>
+<div class="titulo">Upload</div>
 <?php
     print_r($_FILES);
     //print_r($_POST);

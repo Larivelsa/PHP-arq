@@ -34,7 +34,7 @@
         if(!$_SESSION['usuario']){
             $_SESSION['erros']=['Usuário/senha inválida!'];
         }
-    }
+    } 
 
 
 ?>
